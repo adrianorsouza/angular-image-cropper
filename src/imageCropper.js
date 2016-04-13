@@ -1,4 +1,4 @@
-module.exports = Cropper;
+//module.exports = Cropper;
 
 /**
  * Cropper.
